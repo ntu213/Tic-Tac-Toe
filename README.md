@@ -1,7 +1,7 @@
 
-# Snake Game
+# Tic Tac Toe
 
-A classic Snake Game made with PyGame
+A classic Tic Tac Toe made with PyGame
 
 <img src="Demo.gif">
 
